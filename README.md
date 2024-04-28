@@ -39,6 +39,11 @@ This repository contains a series of Jupyter Notebooks designed to illustrate ad
 - **Custom Optimizer**: Implementing a custom optimizer.
 - **Custom Training Loop**: Designing and executing a custom training loop outside of the `fit` method.
 
+### ▶️[Demo Video](): Video that contains the following:
+- Code checked into GitHub
+- Code walkthrough
+- Final output that is generated
+
 ## References
 
 - TensorFlow Official Tutorials: [TensorFlow](https://www.tensorflow.org/tutorials)
