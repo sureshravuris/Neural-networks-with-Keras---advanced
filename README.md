@@ -47,7 +47,7 @@ This repository contains a series of Jupyter Notebooks designed to illustrate ad
 ## References
 
 - TensorFlow Official Tutorials: [TensorFlow](https://www.tensorflow.org/tutorials)
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd Edition): [GitHub - ageron/handson-ml3](https://github.com/ageron/handson-ml3)
+- Hands-On Machine Learning with Scikit-Learn, Keras, TensorFlow(3rd Edition): [GitHub - ageron/handson-ml3](https://github.com/ageron/handson-ml3)
 - AugLy by Facebook Research: [AugLy](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
 - Awesome Data Augmentation: [Awesome Data Augmentation](https://brunokrinski.github.io/awesome-data-augmentation/)
 - FastAI Book: [FastAI Book](https://github.com/fastai/fastbook)
